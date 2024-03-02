@@ -11,4 +11,3 @@ def main():
     # Add your bot logic here...
 
     # Start the bot
-    updater.start_polling()
